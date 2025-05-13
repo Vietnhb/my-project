@@ -1,5 +1,7 @@
 git config --global user.name "Viet"
 git config --global user.email "vietnhbse183457@fpt.edu.vn"
+git config --global credential.helper store
+
 
 git add .
 git commit -m ""
