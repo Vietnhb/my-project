@@ -1,0 +1,8 @@
+git config --global user.name "Viet"
+git config --global user.email "vietnhbse183457@fpt.edu.vn"
+
+git add .
+git commit -m ""
+
+git remote add origin https://github.com/Vietnhb/my-project.git
+git push -u origin master
